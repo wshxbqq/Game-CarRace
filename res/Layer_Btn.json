@@ -1,0 +1,163 @@
+{
+  "ID": "92b88ef3-a976-4e22-940e-95c23e6d3cfa",
+  "Version": "2.3.2.3",
+  "Name": "Layer_Btn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "FontSize": 22,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "img/5-NEV-GTE.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 307,
+            "Scale9Height": 265,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 496.0092,
+              "Y": 151.2109
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.775,
+              "Y": 0.504
+            },
+            "PreSize": {
+              "X": 0.5266,
+              "Y": 0.9567
+            },
+            "LeftMargin": 327.5092,
+            "RightMargin": -24.5092,
+            "TopMargin": 5.2891,
+            "BottomMargin": 7.7109,
+            "Tag": 25,
+            "ActionTag": 254195002,
+            "Size": {
+              "X": 337.0,
+              "Y": 287.0
+            },
+            "Name": "Button_g",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 22,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "img/6-NEV-E.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 278,
+            "Scale9Height": 262,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 142.459,
+              "Y": 147.1628
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2226,
+              "Y": 0.4905
+            },
+            "PreSize": {
+              "X": 0.4812,
+              "Y": 0.9467
+            },
+            "LeftMargin": -11.541,
+            "RightMargin": 343.541,
+            "TopMargin": 10.8372,
+            "BottomMargin": 5.1628,
+            "Tag": 26,
+            "ActionTag": -2038034781,
+            "Size": {
+              "X": 308.0,
+              "Y": 284.0
+            },
+            "Name": "Button_e",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 300.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "img/5-NEV-GTE.png",
+        "img/6-NEV-E.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

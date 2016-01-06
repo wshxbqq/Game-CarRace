@@ -1,0 +1,49 @@
+<Solution>
+  <PropertyGroup Name="CarRace" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Layer_Header.csd" Type="Layer" />
+        <Project Name="Layer_Charging.csd" Type="Layer" />
+        <Project Name="Layer_Btn.csd" Type="Layer" />
+        <Folder Name="img">
+          <Image Name="5-NEV-GTE.png" />
+          <Image Name="6-NEV-E.png" />
+          <Image Name="bg_t_1.png" />
+          <Image Name="b1.png" />
+          <Image Name="b2.png" />
+          <Image Name="bbar.png" />
+          <Image Name="t2.png" />
+          <Image Name="t_03.png" />
+          <Image Name="t_04.png" />
+          <Image Name="f1.jpg" />
+          <Image Name="f2.jpg" />
+          <Image Name="done.jpg" />
+          <Image Name="bba2.png" />
+          <Image Name="bbar1.png" />
+          <Image Name="lighting.png" />
+          <Image Name="start-line.png" />
+          <Image Name="t_03_1.png" />
+          <Image Name="t_03_2.png" />
+          <Image Name="btn_presold.png" />
+          <Image Name="btn_reflashRank.png" />
+          <Image Name="btn_toRank.png" />
+        </Folder>
+        <Project Name="Layer_Guide_1.csd" Type="Layer" />
+        <Project Name="Layer_Guide_2.csd" Type="Layer" />
+        <Project Name="Layer_Over.csd" Type="Layer" />
+        <Folder Name="test">
+          <Image Name="bg.jpg" />
+        </Folder>
+        <Folder Name="cover">
+          <Image Name="car.png" />
+          <Image Name="e.png" />
+          <Image Name="line_1.png" />
+          <Image Name="line_2.png" />
+          <Image Name="oil.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,543 @@
+{
+  "ID": "8d78d973-101d-4f84-b923-5131969bd8c3",
+  "Version": "2.3.2.3",
+  "Name": "Layer_Charging",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4,
+        "Children": [
+          {
+            "BackColorAlpha": 199,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 21,
+            "ActionTag": -924653876,
+            "Size": {
+              "X": 640.0,
+              "Y": 1090.0
+            },
+            "Alpha": 199,
+            "Name": "Panel_Color",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "img/t_04.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 348,
+            "Scale9Height": 117,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 328.126,
+              "Y": 558.316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5127,
+              "Y": 0.5122
+            },
+            "PreSize": {
+              "X": 0.5906,
+              "Y": 0.1275
+            },
+            "LeftMargin": 139.126,
+            "RightMargin": 122.874,
+            "TopMargin": 462.184,
+            "BottomMargin": 488.816,
+            "Tag": 23,
+            "ActionTag": -1191452855,
+            "Size": {
+              "X": 378.0,
+              "Y": 139.0
+            },
+            "Name": "Button_Go",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "img/t_03_1.png",
+              "Plist": ""
+            },
+            "Scale9Width": 618,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 327.3389,
+              "Y": 834.6893
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5115,
+              "Y": 0.7658
+            },
+            "PreSize": {
+              "X": 0.9656,
+              "Y": 0.0495
+            },
+            "LeftMargin": 18.3389,
+            "RightMargin": 3.6611,
+            "TopMargin": 228.3107,
+            "BottomMargin": 807.6893,
+            "Tag": 23,
+            "ActionTag": -1011032100,
+            "Size": {
+              "X": 618.0,
+              "Y": 54.0
+            },
+            "Name": "Text_Charging",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "img/t_03_2.png",
+              "Plist": ""
+            },
+            "Scale9Width": 618,
+            "Scale9Height": 62,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 327.2527,
+              "Y": 762.7373
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5113,
+              "Y": 0.6998
+            },
+            "PreSize": {
+              "X": 0.9656,
+              "Y": 0.0569
+            },
+            "LeftMargin": 18.2527,
+            "RightMargin": 3.7473,
+            "TopMargin": 296.2627,
+            "BottomMargin": 731.7373,
+            "Tag": 22,
+            "ActionTag": 1352655921,
+            "Size": {
+              "X": 618.0,
+              "Y": 62.0
+            },
+            "Name": "Text_Charging_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 232.8869,
+              "Y": 240.9379
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3639,
+              "Y": 0.221
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.1835
+            },
+            "LeftMargin": 232.8869,
+            "RightMargin": 207.1131,
+            "TopMargin": 649.0621,
+            "BottomMargin": 240.9379,
+            "Tag": 23,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "cover/car.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 66,
+                "Scale9Height": 108,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.8,
+                  "Y": 92.4679
+                },
+                "Scale": {
+                  "ScaleX": 0.7412,
+                  "ScaleY": 0.7386
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.249,
+                  "Y": 0.4623
+                },
+                "PreSize": {
+                  "X": 0.1031,
+                  "Y": 0.0991
+                },
+                "LeftMargin": 16.8,
+                "RightMargin": 117.2,
+                "TopMargin": 53.5321,
+                "BottomMargin": 38.4679,
+                "Tag": 29,
+                "ActionTag": -1841181616,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 108.0
+                },
+                "Name": "Image_Car",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "cover/line_1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 128,
+                "Scale9Height": 165,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.4563,
+                  "Y": 106.3922
+                },
+                "Scale": {
+                  "ScaleX": 0.7509,
+                  "ScaleY": 0.6718
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4473,
+                  "Y": 0.532
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.1514
+                },
+                "LeftMargin": 25.4563,
+                "RightMargin": 46.5437,
+                "TopMargin": 11.1078,
+                "BottomMargin": 23.8922,
+                "Tag": 39,
+                "ActionTag": -1301757369,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 165.0
+                },
+                "Name": "Image_l1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "cover/e.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 87,
+                "Scale9Height": 81,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.7175,
+                  "Y": 128.3046
+                },
+                "Scale": {
+                  "ScaleX": 0.7382,
+                  "ScaleY": 0.7862
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8036,
+                  "Y": 0.6415
+                },
+                "PreSize": {
+                  "X": 0.1359,
+                  "Y": 0.0743
+                },
+                "LeftMargin": 117.2175,
+                "RightMargin": -4.2175,
+                "TopMargin": 31.1954,
+                "BottomMargin": 87.8046,
+                "Tag": 30,
+                "ActionTag": -190112186,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 81.0
+                },
+                "Name": "Image_Toom",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "cover/oil.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 87,
+                "Scale9Height": 81,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.9096,
+                  "Y": 66.8817
+                },
+                "Scale": {
+                  "ScaleX": 0.7634,
+                  "ScaleY": 0.7634
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8045,
+                  "Y": 0.3344
+                },
+                "PreSize": {
+                  "X": 0.1359,
+                  "Y": 0.0743
+                },
+                "LeftMargin": 117.4096,
+                "RightMargin": -4.4096,
+                "TopMargin": 92.6183,
+                "BottomMargin": 26.3817,
+                "Tag": 38,
+                "ActionTag": -343996297,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 81.0
+                },
+                "Name": "Image_Toom1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "cover/line_2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 59,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 139.0477,
+                  "Y": 88.7847
+                },
+                "Scale": {
+                  "ScaleX": 0.7491,
+                  "ScaleY": 0.7491
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6952,
+                  "Y": 0.4439
+                },
+                "PreSize": {
+                  "X": 0.0922,
+                  "Y": 0.1101
+                },
+                "LeftMargin": 109.5477,
+                "RightMargin": 31.4523,
+                "TopMargin": 51.2153,
+                "BottomMargin": 28.7847,
+                "Tag": 40,
+                "ActionTag": 1287149992,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 120.0
+                },
+                "Name": "Image_l2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "img/start-line.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 125,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.5014,
+                  "Y": 177.4165
+                },
+                "Scale": {
+                  "ScaleX": 0.69,
+                  "ScaleY": 0.7578
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2475,
+                  "Y": 0.8871
+                },
+                "PreSize": {
+                  "X": 0.1953,
+                  "Y": 0.0147
+                },
+                "LeftMargin": -12.9986,
+                "RightMargin": 87.9986,
+                "TopMargin": 14.5835,
+                "BottomMargin": 169.4165,
+                "Tag": 40,
+                "ActionTag": 1404187378,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 16.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -260003252,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_Base",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1090.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "cover/car.png",
+        "cover/e.png",
+        "cover/line_1.png",
+        "cover/line_2.png",
+        "cover/oil.png",
+        "img/start-line.png",
+        "img/t_03_1.png",
+        "img/t_03_2.png",
+        "img/t_04.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

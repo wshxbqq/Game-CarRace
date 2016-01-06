@@ -1,0 +1,162 @@
+{
+  "ID": "43a0cf9c-efab-43eb-b4e4-301b7ad765e6",
+  "Version": "2.3.2.3",
+  "Name": "Layer_Guide_1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 12,
+        "Children": [
+          {
+            "SingleColor": {
+              "R": 217,
+              "G": 155,
+              "B": 39
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 1090,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "img/f1.jpg",
+                  "Plist": ""
+                },
+                "Scale9Width": 640,
+                "Scale9Height": 1090,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 545.0
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 7,
+                "ActionTag": -71684369,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 1090.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1309993860,
+            "Size": {
+              "X": 640.0,
+              "Y": 1090.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "img/5-NEV-GTE.png",
+              "Plist": ""
+            },
+            "Scale9Width": 337,
+            "Scale9Height": 287,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.4651,
+              "Y": -217.8313
+            },
+            "Scale": {
+              "ScaleX": 1.389,
+              "ScaleY": 1.4328
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9835,
+              "Y": -0.1998
+            },
+            "PreSize": {
+              "X": 0.5266,
+              "Y": 0.2633
+            },
+            "LeftMargin": 460.9651,
+            "RightMargin": -157.9651,
+            "TopMargin": 1164.3313,
+            "BottomMargin": -361.3313,
+            "Tag": 13,
+            "ActionTag": 85135150,
+            "Size": {
+              "X": 337.0,
+              "Y": 287.0
+            },
+            "Name": "Next_Btn",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1090.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "img/5-NEV-GTE.png",
+        "img/f1.jpg"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
